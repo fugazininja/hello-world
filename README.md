@@ -15,3 +15,5 @@ HA! The push worked!!! :-D
 August 08, 2019
 
 I have a lot to learn... 
+
+I am going to create another repo from within VS2015
